@@ -1,5 +1,5 @@
-# Starting A Library
-
+## Starting A Library
+  By Xheptc
 ```lua
-Hi
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/OxyHub/main/documentation", true))() -- finds the site raw
 ```
