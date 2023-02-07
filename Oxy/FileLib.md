@@ -5,9 +5,8 @@ local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownke
 ```
 ## Booting A Window
 ```lua
-local Window = Lib:Create();--creates main lib
-local WhiteText = "Oxy" -- A Name Of Window At First Left
-local BlackText = "Hub" -- A Plus Name Of Window At Second Right
+local Window = Lib:Create("Oxy", "Hub");--OXY - BlackText / HUB - WhiteText
+
 ```
 
 ## Creating A Tab
