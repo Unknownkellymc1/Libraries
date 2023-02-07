@@ -5,7 +5,7 @@ local WhiteText = "Oxy" -- A Name Of Window At First Left
 local BlackText = "Hub" -- A Plus Name Of Window At Second Right
 
 
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/OxyHub/main/documentation", true))() -- gets lib
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownkellymc1/Libraries/main/Oxy/source.lua", true))() -- gets lib
 
 local Window = Lib:Create();--creates main lib
 
